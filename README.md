@@ -23,7 +23,7 @@ Esta extension me permitio cambiar la barra de sonido y brillo
 ## Extension burn my windows
 
 Esta extension me permite poner una animacion al abri y cerrar una ventana 
-[![sonido.png](https://i.postimg.cc/dtLF6mYw/sonido.png)](https://postimg.cc/TpMBYb14)
+[![Animacion.png](https://i.postimg.cc/KvB2CcRH/Animacion.png)](https://postimg.cc/564TCV5B)
 
 ## Grub
 
